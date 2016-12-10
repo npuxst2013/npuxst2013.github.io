@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-12-10T12:08:38.937Z</updated>
+  <updated>2016-12-10T12:11:41.980Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,22 +16,23 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>Hello World</title>
     <link href="http://yoursite.com/2016/12/10/New%20Document/"/>
     <id>http://yoursite.com/2016/12/10/New Document/</id>
     <published>2016-12-10T12:08:38.775Z</published>
-    <updated>2016-12-10T12:08:38.937Z</updated>
+    <updated>2016-12-10T12:11:41.980Z</updated>
     
-    <content type="html"><![CDATA[<hr>
-<h2 id="title-First-Night"><a href="#title-First-Night" class="headerlink" title=" title: First Night"></a> title: First Night</h2><blockquote>
+    <content type="html"><![CDATA[<blockquote>
 <p>我有一头<strong>小毛驴</strong>，可是我从来都不骑。</p>
 </blockquote>
 ]]></content>
     
     <summary type="html">
     
-      &lt;hr&gt;
-&lt;h2 id=&quot;title-First-Night&quot;&gt;&lt;a href=&quot;#title-First-Night&quot; class=&quot;headerlink&quot; title=&quot; title: First Night&quot;&gt;&lt;/a&gt; title: First Night&lt;/h2&gt;&lt;blo
+      &lt;blockquote&gt;
+&lt;p&gt;我有一头&lt;strong&gt;小毛驴&lt;/strong&gt;，可是我从来都不骑。&lt;/p&gt;
+&lt;/blockquote&gt;
+
     
     </summary>
     
