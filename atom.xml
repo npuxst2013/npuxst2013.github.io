@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-12-10T12:11:41.980Z</updated>
+  <updated>2016-12-10T11:37:35.447Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,50 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2016/12/10/New%20Document/"/>
-    <id>http://yoursite.com/2016/12/10/New Document/</id>
-    <published>2016-12-10T12:08:38.775Z</published>
-    <updated>2016-12-10T12:11:41.980Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote>
-<p>我有一头<strong>小毛驴</strong>，可是我从来都不骑。</p>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;blockquote&gt;
-&lt;p&gt;我有一头&lt;strong&gt;小毛驴&lt;/strong&gt;，可是我从来都不骑。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2016/12/10/test/"/>
-    <id>http://yoursite.com/2016/12/10/test/</id>
-    <published>2016-12-10T12:04:55.551Z</published>
-    <updated>2016-12-10T12:04:55.749Z</updated>
-    
-    <content type="html"><![CDATA[<p>发送发大水</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;发送发大水&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
